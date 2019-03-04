@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "knn", "knn\knn.csproj", "{AC06E432-4395-490B-A106-A4C4D00ECF8D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B338AE69-AF95-4B25-B3B4-7EAB24DB5907}"
+	ProjectSection(SolutionItems) = preProject
+		knn\KNN_calculator.cs = knn\KNN_calculator.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
